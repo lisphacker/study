@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "name": "compilers/chibicc",
+            "path": "compilers/chibicc"
+        },
+        {
+            "name": "compilers/feldspar-language",
+            "path": "compilers/feldspar-language"
+        },
+        {
+            "name": "compilers/futhark",
+            "path": "compilers/futhark"
+        },
+        {
+            "name": "compilers/llvm-project/",
+            "path": "compilers/llvm-project/"
+        },
+        {
+            "name": "compilers/nqcc/",
+            "path": "compilers/nqcc/"
+        },
+        {
+            "name": "compilers/r9cc",
+            "path": "compilers/r9cc"
+        },
+    ]
+}

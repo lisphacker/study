@@ -1,0 +1,18 @@
+[submodule "compilers/chibicc"]
+	path = compilers/chibicc
+	url = git@github.com:rui314/chibicc.git
+[submodule "compilers/r9cc"]
+	path = compilers/r9cc
+	url = git@github.com:utam0k/r9cc.git
+[submodule "compilers/feldspar-language"]
+	path = compilers/feldspar-language
+	url = git@github.com:Feldspar/feldspar-language.git
+[submodule "compilers/futhark"]
+	path = compilers/futhark
+	url = git@github.com:diku-dk/futhark.git
+[submodule "compilers/llvm-project"]
+	path = compilers/llvm-project
+	url = git@github.com:llvm/llvm-project.git
+[submodule "compilers/nqcc"]
+	path = compilers/nqcc
+	url = git@github.com:th3oth3rjak3/nqcc.git
