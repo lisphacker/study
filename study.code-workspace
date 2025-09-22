@@ -1,8 +1,12 @@
 {
     "folders": [
         {
-            "name": "compilers/chibicc",
-            "path": "compilers/chibicc"
+            "name": "compilers/nlsandler-nqcc2/",
+            "path": "compilers/nlsandler-nqcc2/"
+        },
+        {
+            "name": "compilers/th3oth3rjak3-nqcc/",
+            "path": "compilers/th3oth3rjak3-nqcc/"
         },
         {
             "name": "compilers/feldspar-language",
@@ -17,12 +21,12 @@
             "path": "compilers/llvm-project/"
         },
         {
-            "name": "compilers/nqcc/",
-            "path": "compilers/nqcc/"
-        },
-        {
             "name": "compilers/r9cc",
             "path": "compilers/r9cc"
         },
+        {
+            "name": "wasmtime",
+            "path": "wasmtime"
+        }
     ]
 }

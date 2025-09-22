@@ -11,5 +11,11 @@
 	path = compilers/llvm-project
 	url = git@github.com:llvm/llvm-project.git
 [submodule "compilers/nqcc"]
-	path = compilers/nqcc
+	path = compilers/th3oth3rjak3-nqcc
 	url = git@github.com:th3oth3rjak3/nqcc.git
+[submodule "compilers/nlsandler-nqcc2"]
+	path = compilers/nlsandler-nqcc2
+	url = git@github.com:nlsandler/nqcc2.git
+[submodule "wasmtime"]
+	path = wasmtime
+	url = git@github.com:bytecodealliance/wasmtime.git
