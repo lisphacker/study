@@ -1,6 +1,3 @@
-[submodule "compilers/chibicc"]
-	path = compilers/chibicc
-	url = git@github.com:rui314/chibicc.git
 [submodule "compilers/r9cc"]
 	path = compilers/r9cc
 	url = git@github.com:utam0k/r9cc.git
